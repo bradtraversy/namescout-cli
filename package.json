@@ -1,0 +1,37 @@
+{
+  "name": "namescout-cli",
+  "version": "0.1.0",
+  "description": "Check whether a name is available across domains, package registries, code hosts, and plugin marketplaces.",
+  "type": "module",
+  "bin": {
+    "namescout": "bin/namescout.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "name",
+    "availability",
+    "namespace",
+    "npm",
+    "domain",
+    "registry",
+    "naming",
+    "cli"
+  ],
+  "homepage": "https://namescout.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradtraversy/namescout-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bradtraversy/namescout-cli/issues"
+  },
+  "license": "MIT",
+  "author": "Brad Traversy"
+}
