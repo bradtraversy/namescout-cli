@@ -1,5 +1,7 @@
 # namescout-cli
 
+The terminal companion to [namescout.dev](https://namescout.dev) — same engine, same registries, no browser needed.
+
 Check whether a project, package, or product name is available across domains, package registries, code hosts, and plugin marketplaces — from your terminal.
 
 ```bash
