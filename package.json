@@ -1,10 +1,11 @@
 {
   "name": "namescout-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check whether a name is available across domains, package registries, code hosts, and plugin marketplaces.",
   "type": "module",
   "bin": {
-    "namescout": "bin/namescout.js"
+    "namescout": "bin/namescout.js",
+    "namescout-cli": "bin/namescout.js"
   },
   "files": [
     "bin",
